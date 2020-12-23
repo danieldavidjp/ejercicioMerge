@@ -65,12 +65,12 @@
 							"$ref": "../../../../MMNWE/entities/EN_CLIENTEAK_894.json#"
 						},
 						"eventType": 0,
-						"groupId": "G_CLIENTEMTH_938631",
+						"groupId": "G_CLIENTEHXE_197631",
 						"htmlSection": "F",
 						"independentValidation": "F",
 						"isCustomized": false,
 						"layoutType": "Group",
-						"name": "Group1138",
+						"name": "Group2382",
 						"order": 1,
 						"orientation": "V",
 						"responsiveLayouts": null,
@@ -99,15 +99,15 @@
 								"isCustomized": false,
 								"label": {
 									"defaultValue": {
-										"$ref": "../../../../MMNWE/assets/languages/MMNWE.json#/MMNWE/LBL/LBL_MMNWE_CEDULANHB_73053"
+										"$ref": "../../../../MMNWE/assets/languages/MMNWE.json#/MMNWE/LBL/LBL_MMNWE_CEDULAOHV_20135"
 									},
-									"labelId": "LBL_MMNWE_CEDULANHB_73053",
+									"labelId": "LBL_MMNWE_CEDULAOHV_20135",
 									"moduleId": "MMNWE"
 								},
 								"maxRecords": null,
 								"name": "cedula",
 								"options": 0,
-								"order": 2,
+								"order": 3,
 								"readOnly": 8,
 								"responsiveLayouts": null,
 								"responsivity": false,
@@ -119,7 +119,7 @@
 									"userControlId": "TextInputBox"
 								},
 								"visible": 4095,
-								"visualAttributeId": "VA_CEDULADUYMNUGEE_438631",
+								"visualAttributeId": "VA_CEDULAPXUYNHCPV_429631",
 								"width": null,
 								"widthComposite": "D"
 							},
@@ -144,9 +144,9 @@
 								"isCustomized": false,
 								"label": {
 									"defaultValue": {
-										"$ref": "../../../../MMNWE/assets/languages/MMNWE.json#/MMNWE/LBL/LBL_MMNWE_NOMBREMPB_91748"
+										"$ref": "../../../../MMNWE/assets/languages/MMNWE.json#/MMNWE/LBL/LBL_MMNWE_NOMBREHVM_22254"
 									},
-									"labelId": "LBL_MMNWE_NOMBREMPB_91748",
+									"labelId": "LBL_MMNWE_NOMBREHVM_22254",
 									"moduleId": "MMNWE"
 								},
 								"maxRecords": null,
@@ -164,7 +164,7 @@
 									"userControlId": "TextInputBox"
 								},
 								"visible": 4095,
-								"visualAttributeId": "VA_NOMBREBAOAELCTA_824631",
+								"visualAttributeId": "VA_NOMBREHLDHDRIMD_335631",
 								"width": null,
 								"widthComposite": "D"
 							},
@@ -189,15 +189,15 @@
 								"isCustomized": false,
 								"label": {
 									"defaultValue": {
-										"$ref": "../../../../MMNWE/assets/languages/MMNWE.json#/MMNWE/LBL/LBL_MMNWE_TELEFONOO_92318"
+										"$ref": "../../../../MMNWE/assets/languages/MMNWE.json#/MMNWE/LBL/LBL_MMNWE_TELEFONOO_32119"
 									},
-									"labelId": "LBL_MMNWE_TELEFONOO_92318",
+									"labelId": "LBL_MMNWE_TELEFONOO_32119",
 									"moduleId": "MMNWE"
 								},
 								"maxRecords": null,
 								"name": "telefono",
 								"options": 0,
-								"order": 3,
+								"order": 2,
 								"readOnly": 8,
 								"responsiveLayouts": null,
 								"responsivity": false,
@@ -209,7 +209,7 @@
 									"userControlId": "TextInputBox"
 								},
 								"visible": 4095,
-								"visualAttributeId": "VA_TELEFONOTYTLAXN_200631",
+								"visualAttributeId": "VA_TELEFONOLULISEC_244631",
 								"width": null,
 								"widthComposite": "D"
 							}
