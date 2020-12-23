@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"CompositeForms": {
 	},
 	"Entities": {
@@ -25,3 +26,10 @@
 	"Queries": {
 	}
 }
+=======
+	"Entities": {},
+	"Forms": {},
+	"CompositeForms": {},
+	"Queries": {}
+}
+>>>>>>> parent of b778ef2 (Agregada entidad cuenta)
