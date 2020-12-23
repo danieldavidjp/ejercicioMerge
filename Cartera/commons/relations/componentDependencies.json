@@ -16,6 +16,11 @@
 			"blis": [
 			],
 			"entities": {
+				"EN_CLIENTEAK_894": [
+					"AT63_TELEFONN894",
+					"AT68_CEDULAQP894",
+					"AT92_NOMBREVC894"
+				]
 			},
 			"externalEntities": {
 			},
@@ -24,6 +29,9 @@
 			"header": [
 			],
 			"labels": [
+				"LBL_MMNWE_CEDULAOHV_20135",
+				"LBL_MMNWE_NOMBREHVM_22254",
+				"LBL_MMNWE_TELEFONOO_32119"
 			],
 			"queries": {
 			},
