@@ -51,6 +51,11 @@
 					"AT79_TARJETAO354",
 					"AT80_TELEFOOO354",
 					"AT91_SUCURSAA354"
+				],
+				"EN_CLIENTEAK_894": [
+					"AT63_TELEFONN894",
+					"AT68_CEDULAQP894",
+					"AT92_NOMBREVC894"
 				]
 			},
 			"externalEntities": {
@@ -68,6 +73,32 @@
 				"LBL_MMNWE_TARJETAED_35677",
 				"LBL_MMNWE_TELEFONOO_56386",
 				"LBL_MMNWE_TIPOOPTHS_17499"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_MMNWEXDFBDGEP_829": {
+			"blis": [
+			],
+			"entities": {
+				"EN_CLIENTEAK_894": [
+					"AT63_TELEFONN894",
+					"AT68_CEDULAQP894",
+					"AT92_NOMBREVC894"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_MMNWE_CEDULANHB_73053",
+				"LBL_MMNWE_NOMBREMPB_91748",
+				"LBL_MMNWE_TELEFONOO_92318"
 			],
 			"queries": {
 			},

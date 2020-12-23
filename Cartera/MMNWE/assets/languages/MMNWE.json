@@ -1,16 +1,10 @@
 {
 	"MMNWE": {
 		"LBL": {
-			"LBL_MMNWE_BANCOAAKW_82666": "banco",
+			"LBL_MMNWE_CEDULANHB_73053": "Cedula",
 			"LBL_MMNWE_CEDULAZMW_64534": "Cedula",
-			"LBL_MMNWE_CHEQUERAA_64439": "Chequera",
-			"LBL_MMNWE_CLIENTEGD_20853": "Cliente",
-			"LBL_MMNWE_NOMBREXKJ_56588": "Nombre",
-			"LBL_MMNWE_SALDOJAGI_52829": "Saldo",
-			"LBL_MMNWE_SUCURSALL_41164": "Sucursal",
-			"LBL_MMNWE_TARJETAED_35677": "Tarjeta de Credito",
-			"LBL_MMNWE_TELEFONOO_56386": "Telefono",
-			"LBL_MMNWE_TIPOOPTHS_17499": "tipo"
+			"LBL_MMNWE_NOMBREMPB_91748": "Nombre",
+			"LBL_MMNWE_TELEFONOO_92318": "Telefono"
 		},
 		"MSG": {
 		}

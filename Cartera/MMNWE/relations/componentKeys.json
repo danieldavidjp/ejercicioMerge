@@ -16,6 +16,9 @@
 			},
 			"T_MMNWEPLXRCEOR_181": {
 				"name": "formCuenta"
+			},
+			"T_MMNWEXDFBDGEP_829": {
+				"name": "formCliente"
 			}
 		},
 		"Queries": {
