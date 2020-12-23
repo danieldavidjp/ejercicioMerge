@@ -1,10 +1,11 @@
 {
-    "MMNWE": {
-        "LBL": {
-
-        },
-        "MSG": {
-
-        }
-    }
+	"MMNWE": {
+		"LBL": {
+			"LBL_MMNWE_CEDULAOHV_20135": "Cedula",
+			"LBL_MMNWE_NOMBREHVM_22254": "Nombre",
+			"LBL_MMNWE_TELEFONOO_32119": "Telefono"
+		},
+		"MSG": {
+		}
+	}
 }

@@ -6,5 +6,18 @@
 		"EN_CUENTASCB_354": {
 			"name": "Cuenta"
 		}
+	},
+	"SSMMX": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_MMNWEXDFBDGEP_829": {
+				"name": "formCliente"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
 	}
 }
