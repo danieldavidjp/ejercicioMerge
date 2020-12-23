@@ -47,6 +47,32 @@
 			},
 			"subForms": [
 			]
+		},
+		"T_MMNWETMWZVJVB_741": {
+			"blis": [
+			],
+			"entities": {
+				"EN_CLIENTEAK_894": [
+					"AT63_TELEFONN894",
+					"AT68_CEDULAQP894",
+					"AT92_NOMBREVC894"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_MMNWE_CEDULAMXP_78936",
+				"LBL_MMNWE_NOMBREVGW_77941",
+				"LBL_MMNWE_TELEFONOO_56386"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
 		}
 	},
 	"Queries": {
