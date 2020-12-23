@@ -1,0 +1,19 @@
+{
+	"culture": "culture",
+	"metadataVersion": "7.2.0.2020",
+	"moduleId": "MMJDA",
+	"modules": [
+		{
+			"moduleId": "MMJDA",
+			"moduleName": "Main",
+			"subModules": [
+				{
+					"subModuleId": "SSMMU",
+					"subModuleName": "Main"
+				}
+			]
+		}
+	],
+	"projectName": "Cartera",
+	"subModuleId": "SSMMU"
+}
