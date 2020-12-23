@@ -1,22 +1,8 @@
 {
-<<<<<<< HEAD
 	"CompositeForms": {
 	},
 	"Entities": {
-		"EN_CLIENTEMS_716": {
-			"labels": [
-			]
-		}
-	},
-	"Forms": {
-	},
-	"Queries": {
-	}
-},
-"CompositeForms": {
-	},
-	"Entities": {
-		"EN_CUENTAYXV_176": {
+		"EN_CUENTASCB_354": {
 			"labels": [
 			]
 		}
@@ -26,10 +12,3 @@
 	"Queries": {
 	}
 }
-=======
-	"Entities": {},
-	"Forms": {},
-	"CompositeForms": {},
-	"Queries": {}
-}
->>>>>>> parent of b778ef2 (Agregada entidad cuenta)
