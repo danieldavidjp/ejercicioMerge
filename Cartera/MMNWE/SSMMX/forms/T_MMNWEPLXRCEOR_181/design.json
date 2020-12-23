@@ -1,0 +1,456 @@
+{
+	"autoCrudStr": "F",
+	"cobisPattern": "None",
+	"cobisPatternId": 0,
+	"commands": [
+	],
+	"customEvents": [
+	],
+	"customizationLayer": 0,
+	"customizationLayerDescription": "ECU",
+	"graphicSupportStr": "F",
+	"header": null,
+	"id": {
+		"moduleId": "MMNWE",
+		"subModuleId": "SSMMX",
+		"taskId": "T_MMNWEPLXRCEOR_181",
+		"version": "1.0.0"
+	},
+	"isCustomized": false,
+	"isImported": false,
+	"mainViewContainerId": "VC_CUENTAOHOC_739181",
+	"modeEnabled": 4095,
+	"name": {
+		"$ref": "../../../../MMNWE/relations/componentKeys.json#/SSMMX/Forms/T_MMNWEPLXRCEOR_181/name"
+	},
+	"setFocus": false,
+	"tempSaveStr": "F",
+	"viewContainers": [
+		{
+			"breadcrumbs": "Automatic",
+			"collapsedStr": "F",
+			"colSpan": 1,
+			"columnsNum": 1,
+			"componentStyle": null,
+			"customEvents": [
+			],
+			"customizationLayer": 0,
+			"customizationLayerDescription": "ECU",
+			"enabled": 4095,
+			"id": {
+				"moduleId": "MMNWE",
+				"subModuleId": "SSMMX",
+				"taskId": "T_MMNWEPLXRCEOR_181",
+				"taskVersion": "1.0.0",
+				"viewContainerId": "VC_CUENTAOHOC_739181"
+			},
+			"isCustomized": false,
+			"layoutType": "Group",
+			"name": "formCuenta",
+			"options": 0,
+			"responsiveLayouts": null,
+			"responsivity": false,
+			"style": null,
+			"view": {
+				"groups": [
+					{
+						"collapsedStr": "F",
+						"colSpan": 1,
+						"columnsNum": 3,
+						"componentStyle": null,
+						"customEvents": [
+						],
+						"enabled": 4095,
+						"entity": {
+							"$ref": "../../../../MMNWE/entities/EN_CUENTASCB_354.json#"
+						},
+						"eventType": 0,
+						"groupId": "G_CUENTASRLN_311827",
+						"htmlSection": "F",
+						"independentValidation": "F",
+						"isCustomized": false,
+						"layoutType": "Group",
+						"name": "Group1140",
+						"order": 1,
+						"orientation": "V",
+						"responsiveLayouts": null,
+						"responsivity": false,
+						"style": null,
+						"visible": 4095,
+						"visualAttributes": [
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../MMNWE/entities/EN_CUENTASCB_354.json#/attributes/AT24_BANCONHR354"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../MMNWE/assets/languages/MMNWE.json#/MMNWE/LBL/LBL_MMNWE_BANCOAAKW_82666"
+									},
+									"labelId": "LBL_MMNWE_BANCOAAKW_82666",
+									"moduleId": "MMNWE"
+								},
+								"maxRecords": null,
+								"name": "banco",
+								"options": 0,
+								"order": 3,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_BANCONRPGNLCLAP_924827",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../MMNWE/entities/EN_CUENTASCB_354.json#/attributes/AT22_CHEQUERR354"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../MMNWE/assets/languages/MMNWE.json#/MMNWE/LBL/LBL_MMNWE_CHEQUERAA_64439"
+									},
+									"labelId": "LBL_MMNWE_CHEQUERAA_64439",
+									"moduleId": "MMNWE"
+								},
+								"maxRecords": null,
+								"name": "chequera",
+								"options": 0,
+								"order": 5,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"userControl": {
+									"type": "I",
+									"userControlId": "CheckBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_CHEQUERAHUZIWMK_232827",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../MMNWE/entities/EN_CUENTASCB_354.json#/attributes/AT69_CLIENTEE354"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../MMNWE/assets/languages/MMNWE.json#/MMNWE/LBL/LBL_MMNWE_CLIENTEGD_20853"
+									},
+									"labelId": "LBL_MMNWE_CLIENTEGD_20853",
+									"moduleId": "MMNWE"
+								},
+								"maxRecords": null,
+								"name": "cliente",
+								"options": 0,
+								"order": 1,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_CLIENTEQIRGEHKO_218827",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../MMNWE/entities/EN_CUENTASCB_354.json#/attributes/AT13_SALDOAZD354"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../MMNWE/assets/languages/MMNWE.json#/MMNWE/LBL/LBL_MMNWE_SALDOJAGI_52829"
+									},
+									"labelId": "LBL_MMNWE_SALDOJAGI_52829",
+									"moduleId": "MMNWE"
+								},
+								"maxRecords": null,
+								"name": "saldo",
+								"options": 0,
+								"order": 4,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_SALDOLOLWPWWOWU_733827",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../MMNWE/entities/EN_CUENTASCB_354.json#/attributes/AT91_SUCURSAA354"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../MMNWE/assets/languages/MMNWE.json#/MMNWE/LBL/LBL_MMNWE_SUCURSALL_41164"
+									},
+									"labelId": "LBL_MMNWE_SUCURSALL_41164",
+									"moduleId": "MMNWE"
+								},
+								"maxRecords": null,
+								"name": "sucursal",
+								"options": 0,
+								"order": 7,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_SUCURSALXKFNGPX_790827",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../MMNWE/entities/EN_CUENTASCB_354.json#/attributes/AT79_TARJETAO354"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../MMNWE/assets/languages/MMNWE.json#/MMNWE/LBL/LBL_MMNWE_TARJETAED_35677"
+									},
+									"labelId": "LBL_MMNWE_TARJETAED_35677",
+									"moduleId": "MMNWE"
+								},
+								"maxRecords": null,
+								"name": "tarjetaCredito",
+								"options": 0,
+								"order": 6,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_TARJETACREDIOTT_659827",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../MMNWE/entities/EN_CUENTASCB_354.json#/attributes/AT80_TELEFOOO354"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../MMNWE/assets/languages/MMNWE.json#/MMNWE/LBL/LBL_MMNWE_TELEFONOO_56386"
+									},
+									"labelId": "LBL_MMNWE_TELEFONOO_56386",
+									"moduleId": "MMNWE"
+								},
+								"maxRecords": null,
+								"name": "telefono",
+								"options": 0,
+								"order": 8,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_TELEFONONKGBGKC_693827",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../MMNWE/entities/EN_CUENTASCB_354.json#/attributes/AT18_TIPOYLWV354"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../MMNWE/assets/languages/MMNWE.json#/MMNWE/LBL/LBL_MMNWE_TIPOOPTHS_17499"
+									},
+									"labelId": "LBL_MMNWE_TIPOOPTHS_17499",
+									"moduleId": "MMNWE"
+								},
+								"maxRecords": null,
+								"name": "tipo",
+								"options": 0,
+								"order": 2,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_TIPOMYBFCUIJHML_959827",
+								"width": null,
+								"widthComposite": "D"
+							}
+						]
+					}
+				],
+				"id": {
+					"version": "1.0.0",
+					"viewId": "VW_CUENTAQOQQ_827"
+				},
+				"metadataVersion": "7.2.0.2020",
+				"modules": [
+					{
+						"moduleId": "MMNWE"
+					}
+				],
+				"name": "View of formCuenta"
+			}
+		}
+	]
+}
