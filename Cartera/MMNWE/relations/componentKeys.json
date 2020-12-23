@@ -1,5 +1,8 @@
 {
 	"Entities": {
+		"EN_CLIENTEAK_894": {
+			"name": "Cliente"
+		},
 		"EN_CUENTASCB_354": {
 			"name": "Cuenta"
 		}
