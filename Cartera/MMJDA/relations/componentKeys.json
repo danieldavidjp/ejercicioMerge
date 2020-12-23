@@ -2,6 +2,10 @@
 	"Entities": {
 		"EN_CLIENTEMS_716": {
 			"name": "Cliente"
+		},
+"EN_CUENTAYXV_176": {
+			"name": "Cuenta"
 		}
 	}
-}
+},
+
